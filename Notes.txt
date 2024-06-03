@@ -1,0 +1,95 @@
+App Development:
+1. Requirement Gathering - Functionality
+	document
+2. Database - Schema and Test Record
+3. UI/UX Design - Images with Wireframes
+4. Development - Frontend(HTML,JS, CSS)
+	- Backend(Java, PHP, Python)
+5. Testing - Unit testing, Integration
+	testing, Manual Testing
+	-> Continuous Integration
+6. Deployment - Deploy app to live server
+	->Continuous Deployment 
+	-> Continuous Delivery
+	   - Approval based deploymnt
+7. Post Deployment - Load Testing, 
+	Feedback from the user
+
+
+
+
+
+
+Version Control:
+1. History of changes - Snapshot of the
+	project
+2. Merging changes - Merge code without
+	conflict
+3. Single Codebase - Colaborate 
+4. Branches - Making complex changes 
+	parallely
+
+cp -pr /usr/share/java/jenkins.war /home/jenkins
+
+emp a
+emp b
+	App.js
+
+
+
+
+
+
+
+
+Editors in Linux:
+1. VI or VIM editor
+2. Nano Editor
+3. Cat
+
+
+Creating a file - touch script.sh
+	cat script.sh
+
+
+save and exit- :wq
+forcefully  save and exit- :wq!
+exit without save - :q
+insert mode - i
+1. sudo su and "cd Documents"
+2. vi script.sh
+3. copy paste the script and press esc and :wq 
+4. chmod 777 script.sh
+5. ./script.sh
+6. systemctl enable jenkins
+7. systemctl start jenkins
+8. systemctl status jenkins
+9. cp -pr /usr/share/java/jenkins.war /home/jenkins
+10. systemctl restart jenkins
+
+
+user: deep
+password: mountain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
