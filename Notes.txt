@@ -15,7 +15,7 @@ App Development:
 7. Post Deployment - Load Testing, 
 	Feedback from the user
 
-
+git clone https://gitlab.com/qacdevops/python-front-and-back
 
 
 
